@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loan-form/static/css/main.88eeda7e.css",
-    "main.js": "/loan-form/static/js/main.9df00e42.js",
-    "static/js/453.b71b109e.chunk.js": "/loan-form/static/js/453.b71b109e.chunk.js",
-    "index.html": "/loan-form/index.html",
-    "main.88eeda7e.css.map": "/loan-form/static/css/main.88eeda7e.css.map",
-    "main.9df00e42.js.map": "/loan-form/static/js/main.9df00e42.js.map",
-    "453.b71b109e.chunk.js.map": "/loan-form/static/js/453.b71b109e.chunk.js.map"
+    "main.css": "/react-lone/static/css/main.88eeda7e.css",
+    "main.js": "/react-lone/static/js/main.ec89e6b4.js",
+    "static/js/453.b71b109e.chunk.js": "/react-lone/static/js/453.b71b109e.chunk.js",
+    "index.html": "/react-lone/index.html",
+    "main.88eeda7e.css.map": "/react-lone/static/css/main.88eeda7e.css.map",
+    "main.ec89e6b4.js.map": "/react-lone/static/js/main.ec89e6b4.js.map",
+    "453.b71b109e.chunk.js.map": "/react-lone/static/js/453.b71b109e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88eeda7e.css",
-    "static/js/main.9df00e42.js"
+    "static/js/main.ec89e6b4.js"
   ]
 }
